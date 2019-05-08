@@ -1,0 +1,17 @@
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.dll
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/NUnit3.TestAdapter.pdb
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/nunit.engine.netstandard.dll
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/XMLhomeworkTests.deps.json
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/XMLhomeworkTests.runtimeconfig.json
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/XMLhomeworkTests.runtimeconfig.dev.json
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/XMLhomeworkTests.dll
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/XMLhomeworkTests.pdb
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/XMLhomework.dll
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/bin/Debug/netcoreapp2.2/XMLhomework.pdb
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/obj/Debug/netcoreapp2.2/XMLhomeworkTests.csprojAssemblyReference.cache
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/obj/Debug/netcoreapp2.2/XMLhomeworkTests.csproj.CoreCompileInputs.cache
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/obj/Debug/netcoreapp2.2/XMLhomeworkTests.AssemblyInfoInputs.cache
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/obj/Debug/netcoreapp2.2/XMLhomeworkTests.AssemblyInfo.cs
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/obj/Debug/netcoreapp2.2/XMLhomeworkTests.csproj.CopyComplete
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/obj/Debug/netcoreapp2.2/XMLhomeworkTests.dll
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomeworkTests/obj/Debug/netcoreapp2.2/XMLhomeworkTests.pdb

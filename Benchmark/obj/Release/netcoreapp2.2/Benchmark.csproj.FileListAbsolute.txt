@@ -1,0 +1,14 @@
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/bin/Release/netcoreapp2.2/Benchmark.deps.json
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/bin/Release/netcoreapp2.2/Benchmark.runtimeconfig.json
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/bin/Release/netcoreapp2.2/Benchmark.runtimeconfig.dev.json
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/bin/Release/netcoreapp2.2/Benchmark.dll
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/bin/Release/netcoreapp2.2/Benchmark.pdb
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/bin/Release/netcoreapp2.2/XMLhomework.dll
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/bin/Release/netcoreapp2.2/XMLhomework.pdb
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/obj/Release/netcoreapp2.2/Benchmark.csprojAssemblyReference.cache
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/obj/Release/netcoreapp2.2/Benchmark.csproj.CoreCompileInputs.cache
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/obj/Release/netcoreapp2.2/Benchmark.AssemblyInfoInputs.cache
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/obj/Release/netcoreapp2.2/Benchmark.AssemblyInfo.cs
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/obj/Release/netcoreapp2.2/Benchmark.csproj.CopyComplete
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/obj/Release/netcoreapp2.2/Benchmark.dll
+/Users/martincerveny/RiderProjects/XMLhomework/Benchmark/obj/Release/netcoreapp2.2/Benchmark.pdb

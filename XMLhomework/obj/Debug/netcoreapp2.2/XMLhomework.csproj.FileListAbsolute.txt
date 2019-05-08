@@ -1,0 +1,9 @@
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomework/bin/Debug/netcoreapp2.2/XMLhomework.deps.json
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomework/bin/Debug/netcoreapp2.2/XMLhomework.dll
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomework/bin/Debug/netcoreapp2.2/XMLhomework.pdb
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomework/obj/Debug/netcoreapp2.2/XMLhomework.csprojAssemblyReference.cache
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomework/obj/Debug/netcoreapp2.2/XMLhomework.csproj.CoreCompileInputs.cache
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomework/obj/Debug/netcoreapp2.2/XMLhomework.AssemblyInfoInputs.cache
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomework/obj/Debug/netcoreapp2.2/XMLhomework.AssemblyInfo.cs
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomework/obj/Debug/netcoreapp2.2/XMLhomework.dll
+/Users/martincerveny/RiderProjects/XMLhomework/XMLhomework/obj/Debug/netcoreapp2.2/XMLhomework.pdb

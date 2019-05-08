@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLhomework", "XMLhomework\XMLhomework.csproj", "{46DE2056-E5C5-4A1B-8F55-03BCF21EE5FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLhomeworkTests", "XMLhomeworkTests\XMLhomeworkTests.csproj", "{31E1F8CE-4A12-4EDE-A2D6-493BB099F0EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Benchmark", "Benchmark\Benchmark.csproj", "{9C6561E5-2AA7-4B82-9D16-E84B4BFE8E94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{46DE2056-E5C5-4A1B-8F55-03BCF21EE5FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{46DE2056-E5C5-4A1B-8F55-03BCF21EE5FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{46DE2056-E5C5-4A1B-8F55-03BCF21EE5FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{46DE2056-E5C5-4A1B-8F55-03BCF21EE5FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31E1F8CE-4A12-4EDE-A2D6-493BB099F0EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31E1F8CE-4A12-4EDE-A2D6-493BB099F0EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31E1F8CE-4A12-4EDE-A2D6-493BB099F0EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31E1F8CE-4A12-4EDE-A2D6-493BB099F0EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C6561E5-2AA7-4B82-9D16-E84B4BFE8E94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C6561E5-2AA7-4B82-9D16-E84B4BFE8E94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C6561E5-2AA7-4B82-9D16-E84B4BFE8E94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C6561E5-2AA7-4B82-9D16-E84B4BFE8E94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
